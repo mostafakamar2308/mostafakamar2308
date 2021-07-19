@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mostafa Kamar
 - I am a medical student who loves coding so much
-- 👀 I’m interested in Medicine ,coding and Boxing
+- 👀 I’m interested in Medicine , webdev and Boxing
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can reach me on twitter @MostafaKamar22
 
 <!---
