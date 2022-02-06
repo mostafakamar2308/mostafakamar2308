@@ -18,7 +18,7 @@
 
 
 - # Want To Contact me
--   <a href="https://img.shields.io/twitter/follow/MostafaKamar23?style=for-the-badge"></a>
+-   <a href="https://img.shields.io/twitter/follow/MostafaKamar23?style=for-the-badge" width="100" alt="twitter"></a>
 
 
 
