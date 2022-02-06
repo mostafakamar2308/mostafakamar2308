@@ -4,9 +4,9 @@
 <tr>
   <td valign="center">
     🎓 I am currently a medical student and begginer web developer.
-    🌱 I am currently learning **JavaScript** and also interested in **Python**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **WebSites**.
+    🌱 I am currently learning JavaScript and also interested in Python.
+    🎯 My Goal is to Contribute to as many open source project as possible.
+    ✨ I love to create different types of WebSites.
 <td >
     <a href="https://app.daily.dev/mostafasama771"><img src="https://api.daily.dev/devcards/e2fcd74a6b604e8f852f5737e9d4cd8a.png?r=imh" width="500" alt="Mostafa Kamar's Dev Card"/></a>
   </td>
