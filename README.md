@@ -14,7 +14,6 @@
 </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostafakamar2308&theme=dracula&hide_border=true)
 
 
 # Want To Contact me
