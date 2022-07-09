@@ -1,4 +1,4 @@
-# Hi, I’m Mostafa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# Hi, I’m Mostafa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50">
 # About Me
 <table>
 <tr>
