@@ -23,7 +23,7 @@
 # Technologies I work with
   
   <img src="https://user-images.githubusercontent.com/78041193/152677891-eefcf563-d74e-4090-b36a-540f43110a05.png" width="100"> <img src="https://user-images.githubusercontent.com/78041193/152677922-ff383e13-7cbe-4a01-affa-1489847183c3.png" width="100"> <img src="https://user-images.githubusercontent.com/78041193/152677953-42ed7c30-1fe8-4b4a-b69b-466b508c2801.png" width="100">
-  <img src="https://user-images.githubusercontent.com/78041193/178115850-7824b644-b9ba-4b3e-bb8d-b9a1cb41523f.png" width="100">
+  <img src="https://user-images.githubusercontent.com/78041193/178115850-7824b644-b9ba-4b3e-bb8d-b9a1cb41523f.png" width="100"> <img src="https://img.icons8.com/color/100/000000/firebase.png"/>
 
   
 
