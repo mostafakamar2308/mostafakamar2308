@@ -8,7 +8,7 @@
     🎯 My Goal is to Contribute to as many open source project as possible.
     ✨ I'd love to create different types of WebSites.
 <td >
-    <a href="https://app.daily.dev/mostafasama771"><img src="https://api.daily.dev/devcards/e2fcd74a6b604e8f852f5737e9d4cd8a.png?r=imh" width="500" alt="Mostafa Kamar's Dev Card"/></a>
+    <a href="https://app.daily.dev/mostafasama771"><img src="https://api.daily.dev/devcards/e2fcd74a6b604e8f852f5737e9d4cd8a.png?r=p9i" width="400" alt="Mostafa Kamar's Dev Card"/></a>
   </td>
 
 </tr>
