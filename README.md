@@ -3,9 +3,9 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently a medical student and begginer web developer.
-    🌱 I am currently learning React.
-    🎯 My Goal is to Contribute to as many open source project as possible.
+    🎓 I am a Frontend Web Developer, Also I am a medical student
+    🌱 I am currently Learning Advanced React.
+    🎯 My Goal is to Contribute to create many problem solving Apps.
     ✨ I'd love to create different types of WebSites.
 <td >
     <a href="https://app.daily.dev/mostafasama771"><img src="https://api.daily.dev/devcards/e2fcd74a6b604e8f852f5737e9d4cd8a.png?r=p9i" width="400" alt="Mostafa Kamar's Dev Card"/></a>
