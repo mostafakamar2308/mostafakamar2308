@@ -3,11 +3,12 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am a Frontend Web Developer, Also I am a medical student
-    🌱 I am currently Learning Advanced React.
-    🎯 My Goal is to Contribute to create many problem solving Apps.
+    🎓 I am a fullstack web developer.
+    🌱 I am currently Learning Go lang.
     ✨ I'd love to create different types of WebSites.
     Check My personal PortfolioL https://kamar-codes.vercel.app/
+</td>
+    
 <td >
     <a href="https://app.daily.dev/mostafasama771"><img src="https://api.daily.dev/devcards/e2fcd74a6b604e8f852f5737e9d4cd8a.png?r=p9i" width="400" alt="Mostafa Kamar's Dev Card"/></a>
   </td>
