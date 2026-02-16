@@ -4,9 +4,13 @@
 <tr>
   <td valign="center">
     🎓 I am a fullstack web developer.
+    
     🌱 I am currently Learning Go lang.
+    
     ✨ I'd love to create different types of WebSites.
+    
     Check My personal PortfolioL https://kamar-codes.vercel.app/
+    
 </td>
     
 <td >
