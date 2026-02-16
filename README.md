@@ -3,6 +3,7 @@
 <table>
 <tr>
   <td valign="center">
+    
     🎓 I am a fullstack web developer.
     
     🌱 I am currently Learning Go lang.
